@@ -1,0 +1,9 @@
+.pytest_cache/*
+.vscode/*
+__pycache__/*
+creation_for_installpackage/*
+test_portscan.bat
+test_autoportscan.bat
+*.xml
+*.html
+config.py
