@@ -18,15 +18,15 @@ To overcome this inconvenience, I tried to use lxml package to convert XML forma
 </p>
 
 - Sequences
-  - 1st. Execution Nmap with the combination of each option
-    - TCP, IPv4, LAN
-    - UDP, IPv4, LAN
-    - TCP, IPv6, LAN
-    - UDP, IPv6, LAN
-    - TCP, IPv4, WAN
-    - UDP, IPv4, WAN
-    - TCP, IPv6, WAN
-    - UDP, IPv6, WAN 
-  - 2nd. After finishing Nmap executions, the results will be created as XML
-  - 3rd. These XML results are going to be converted to HTML using lxml package.
-  - 4th. The files converted to HTML will be sent to the target e-mail address using a simple python code. (End)
+  - 1st. Execution Nmap with the combination of each option
+    - TCP, IPv4, LAN
+    - UDP, IPv4, LAN
+    - TCP, IPv6, LAN
+    - UDP, IPv6, LAN
+    - TCP, IPv4, WAN
+    - UDP, IPv4, WAN
+    - TCP, IPv6, WAN
+    - UDP, IPv6, WAN 
+  - 2nd. After finishing Nmap executions, the results will be created as XML
+  - 3rd. These XML results are going to be converted to HTML using lxml package.
+  - 4th. The files converted to HTML will be sent to the target e-mail address using a simple python code. (End)
